@@ -1,2 +1,1 @@
-# Patroli
-Patrili Bot TES
+# beta version
